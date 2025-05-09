@@ -1,6 +1,6 @@
 # Pablo Melo
 
-Senior Software Engineer and Software Architect at Seidor Brasil
+Software engineer at Nubank and software architecture enthusiast
 
 Passionate about software development and architecture. I believe that we always have something new to learn and contribute, so I am always evolving.
 
